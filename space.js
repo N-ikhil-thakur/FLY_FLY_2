@@ -11,5 +11,6 @@ function setup(){
 
     function mousePressed(){
         up();
+        return false;
     }
 
