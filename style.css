@@ -1,0 +1,15 @@
+#board{
+    /* fill: lightcoral; */
+    background-image:url(night4.jpg); 
+    background-size:cover;
+    width: 100vw;
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+
+.bird{
+
+    transform-origin: 50% ,50%;
+
+}
